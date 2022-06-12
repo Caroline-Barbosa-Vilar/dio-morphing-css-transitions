@@ -14,9 +14,9 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Technologies used](#technologies-used)
 
-<!-- - [What I learned](#what-I-learned)
+<!-- - [What I learned](#what-I-learned)-->
 
-- [Access the Project](#access-the-project) -->
+- [View the Projects](#view-the-projects) 
 
 
 ## Project description
@@ -40,18 +40,20 @@ This repository contains the exercises from module II - Course: "Developing a ha
 - Improve my Grid and Flexbox skills;
 - To make a more responsive-friendly code -->
 
+
+## View the Projects
+
+### First Project - A morphing card: 
+
+Desktop:
+
+<img src="./morphing-menu/assets/morphing-card-desktop-screen.gif" alt="the desktop screen gif">
+
 <!-- 
-## Access the Project
-
-You can [access the project here](https://bo83dev.github.io/testimonials-project/) 
-
 Mobile:
 
 <img src="./.gif" alt="mobile screen gif">
 
-Desktop:
-
-<img src="./.gif" alt="desktop screen gif">
 
 Tablet:
 
@@ -102,7 +104,7 @@ Esse repositório contém os exercícios do módulo II - Curso: "Desenvolvendo u
 - . -->
 
 
-<!-- ## Acesse o projeto
+<!-- ## Acesse os projetos
 
 Você pode [acessar o projeto aqui]
 

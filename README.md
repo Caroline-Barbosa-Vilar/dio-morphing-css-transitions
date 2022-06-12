@@ -23,7 +23,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 <p align="justify">
 
-Esse repositório contém os exercícios do módulo II - Curso: "Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions" do Bootcamp "TQI Fullstack Developer" da [D.I.O](https://www.dio.me/en). 
+This repository contains the exercises from module II - Course: "Developing a hamburger menu and morphing menu with CSS Transitions" from [D.I.O](https://www.dio.me/en). Bootcamp - "TQI Fullstack Developer".
 
 </p>
 

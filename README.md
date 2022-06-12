@@ -16,7 +16,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 <!-- - [What I learned](#what-I-learned)-->
 
-- [View the Projects](#view-the-projects) 
+- [View the Results](#view-the-results) 
 
 
 ## Project description
@@ -41,7 +41,7 @@ This repository contains the exercises from module II - Course: "Developing a ha
 - To make a more responsive-friendly code -->
 
 
-## View the Projects
+## View the Results
 
 ### First Project - A morphing card: 
 
@@ -77,9 +77,9 @@ Tablet:
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-<!-- - [O que aprendi](#o-que-aprendi)
+<!-- - [O que aprendi](#o-que-aprendi)  -->
 
-- [Acesse o projeto](#acesse-o-projeto) -->
+- [Veja os resultados](#veja-os-resultados)
 
 
 ## Descrição do projeto 
@@ -104,14 +104,15 @@ Esse repositório contém os exercícios do módulo II - Curso: "Desenvolvendo u
 - . -->
 
 
-<!-- ## Acesse os projetos
+ ## Veja os resultados
 
-Você pode [acessar o projeto aqui]
+ ### Primeiro Projeto - Card Transformando: 
 
-Mobile:
+Desktop:
 
-<img src="./.gif" alt="mobile screen gif">
+<img src="./morphing-menu/assets/morphing-card-desktop-screen.gif" alt="the desktop screen gif">
 
+  <!--
 Desktop:
 
 <img src="./.gif" alt="desktop screen gif">

@@ -1,4 +1,4 @@
-<div align='center'> <img src="./assets/logo-dio.jpg" alt="the company logo"> </div>
+<div align='center'> <img src="./logo-dio.jpg" alt="the company logo"> </div>
 
 <h1 align='center'> Exercises Module II </h1>
 

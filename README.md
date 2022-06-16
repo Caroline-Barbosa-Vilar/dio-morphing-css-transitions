@@ -3,7 +3,9 @@
 <h1 align='center'> Exercise Module II - Morphing card </h1>
 
 <div align='center'>
-  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fcaroline-barbosa-vilar.github.io%2Fdio-morphing-css-transitions%2F"/>
+  <a href="https://github.com/Caroline-Barbosa-Vilar/dio-morphing-css-transitions/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/dio-morphing-css-transitions"></a>
+<a href="https://github.com/Caroline-Barbosa-Vilar/dio-morphing-css-transitions/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/dio-morphing-css-transitions"></a>
+<a href="https://github.com/Caroline-Barbosa-Vilar/dio-morphing-css-transitions/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/dio-morphing-css-transitions"></a> 
 </div>
 
 _Para a versão em Português, clique [aqui](#portuguese)._ 
@@ -17,7 +19,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 - [What I learned](#what-I-learned)
 
 - [Access the Project](#access-the-project)
-- 
+
 - [Result](#result) 
 
 
@@ -28,6 +30,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 This repository contains the exercises from module II - Course: "Developing a hamburger menu and morphing menu with CSS Transitions" from [D.I.O](https://www.dio.me/en) Bootcamp - "TQI Fullstack Developer".
 
 </p>
+
 
 ## Technologies used
 
@@ -42,15 +45,17 @@ This repository contains the exercises from module II - Course: "Developing a ha
 - Use the filter property to change the saturation of the image;
 - Hide items in the inactive form and make them appear in the active form using the visibility property.
 
+
 ## Access the Project
 
 You can [access the project here](https://caroline-barbosa-vilar.github.io/dio-morphing-css-transitions/) 
+
 
 ## View the Results
 
 Desktop:
 
-<img src="./morphing-menu/assets/morphing-card-desktop-screen.gif" alt="the desktop screen gif">
+<img src="./assets/morphing-card-desktop-screen.gif" alt="the desktop screen gif">
 
 
 <div id="portuguese">
@@ -59,7 +64,9 @@ Desktop:
 <h1 align='center'> Exercícios Módulo II - Morphing Card </h1>
 
 <div align='center'>
-  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fcaroline-barbosa-vilar.github.io%2Fdio-morphing-css-transitions%2F"/>
+  <a href="https://github.com/Caroline-Barbosa-Vilar/dio-morphing-css-transitions/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/dio-morphing-css-transitions"></a>
+<a href="https://github.com/Caroline-Barbosa-Vilar/dio-morphing-css-transitions/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/dio-morphing-css-transitions"></a>
+<a href="https://github.com/Caroline-Barbosa-Vilar/dio-morphing-css-transitions/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/dio-morphing-css-transitions"></a> 
 </div>
 
 
@@ -92,20 +99,23 @@ Esse repositório contém os exercícios do módulo II - Curso: "Desenvolvendo u
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+  
 ## O que aprendi
 
 - Usar a propriedade filter para alterar a saturação da imagem;
 - Esconder itens na forma inativa e fazer aparecer na forma ativa usando a propriedade visibility.
 
+  
 ## Acesse o projeto
   
 Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/dio-morphing-css-transitions/)
 
- ## Veja os resultados
+  
+## Veja os resultados
 
 Desktop:
 
-<img src="./morphing-menu/assets/morphing-card-desktop-screen.gif" alt="the desktop screen gif">
+<img src="./assets/morphing-card-desktop-screen.gif" alt="the desktop screen gif">
 
 <hr>
 

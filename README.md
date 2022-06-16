@@ -1,9 +1,9 @@
 <div align='center'> <img src="./logo-dio.jpg" alt="the company logo"> </div>
 
-<h1 align='center'> Exercises Module II </h1>
+<h1 align='center'> Exercise Module II - Morphing card </h1>
 
 <div align='center'>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
+  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fcaroline-barbosa-vilar.github.io%2Fdio-morphing-css-transitions%2F"/>
 </div>
 
 _Para a versão em Português, clique [aqui](#portuguese)._ 
@@ -14,9 +14,11 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Technologies used](#technologies-used)
 
-<!-- - [What I learned](#what-I-learned)-->
+- [What I learned](#what-I-learned)
 
-- [View the Results](#view-the-results) 
+- [Access the Project](#access-the-project)
+- 
+- [Result](#result) 
 
 
 ## Project description
@@ -35,39 +37,29 @@ This repository contains the exercises from module II - Course: "Developing a ha
 </div>
 
 
-<!-- ## What I learned
+## What I learned
 
-- Improve my Grid and Flexbox skills;
-- To make a more responsive-friendly code -->
+- Use the filter property to change the saturation of the image;
+- Hide items in the inactive form and make them appear in the active form using the visibility property.
 
+## Access the Project
+
+You can [access the project here](https://caroline-barbosa-vilar.github.io/dio-morphing-css-transitions/) 
 
 ## View the Results
-
-### First Project - A morphing card: 
 
 Desktop:
 
 <img src="./morphing-menu/assets/morphing-card-desktop-screen.gif" alt="the desktop screen gif">
 
-<!-- 
-Mobile:
-
-<img src="./.gif" alt="mobile screen gif">
-
-
-Tablet:
-
-<img src="./.gif" alt="tablet screen gif"> -->
-
-
 
 <div id="portuguese">
 
 
-<h1 align='center'> Exercícios Módulo II </h1>
+<h1 align='center'> Exercícios Módulo II - Morphing Card </h1>
 
 <div align='center'>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
+  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fcaroline-barbosa-vilar.github.io%2Fdio-morphing-css-transitions%2F"/>
 </div>
 
 
@@ -77,9 +69,11 @@ Tablet:
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-<!-- - [O que aprendi](#o-que-aprendi)  -->
+- [O que aprendi](#o-que-aprendi) 
+  
+- [Acesse o projeto](#acesse-o-projeto)
 
-- [Veja os resultados](#veja-os-resultados)
+- [Resultado](#resultado)
 
 
 ## Descrição do projeto 
@@ -98,29 +92,20 @@ Esse repositório contém os exercícios do módulo II - Curso: "Desenvolvendo u
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-<!-- ## O que aprendi
+## O que aprendi
 
-- ;
-- . -->
+- Usar a propriedade filter para alterar a saturação da imagem;
+- Esconder itens na forma inativa e fazer aparecer na forma ativa usando a propriedade visibility.
 
+## Acesse o projeto
+  
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/dio-morphing-css-transitions/)
 
  ## Veja os resultados
-
- ### Primeiro Projeto - Card Transformando: 
 
 Desktop:
 
 <img src="./morphing-menu/assets/morphing-card-desktop-screen.gif" alt="the desktop screen gif">
-
-  <!--
-Desktop:
-
-<img src="./.gif" alt="desktop screen gif">
-
-Tablet:
-
-<img src="./.gif" alt="tablet screen gif"> -->
-
 
 <hr>
 
